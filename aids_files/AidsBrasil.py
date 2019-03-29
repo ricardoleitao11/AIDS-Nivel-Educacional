@@ -42,7 +42,9 @@ plt.plot(anos, superiorcompl, color='#990099', label='superior completo')
 plt.plot(anos, naoseaplica, color='#ff6600', label='NA')
 plt.legend(bbox_to_anchor=(1.02,1), borderaxespad=0)
 plt.subplots_adjust(right=0.7, left=0.125)
-plt.savefig('Relacao_Aids.png', dpi=1000, orientation='portrait')
+#plt.savefig('Relacao_Aids.png', dpi=1000, orientation='portrait')
+plt.savefig('Relacao_Aids.pdf')
+
 
 
 
