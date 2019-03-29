@@ -1,3 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Mar 28 15:43:50 2019
+@author: ricardo.leitao
+Main()
+"""
+
+
 import matplotlib.pyplot as plt
 #import pandas as pd
 import functions
